@@ -129,7 +129,7 @@ html{
 /*Hero*/
 
 .section-hero{
-    background: url(../img/Overlay.png) center center no-repeat;
+    background: url(../img/Overlay.png) cover / center no-repeat;
     background-size: contain;
 }
 
